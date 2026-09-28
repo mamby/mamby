@@ -1,3 +1,5 @@
+<img src="./assets/mc-logo-full.svg" alt="Mamby" width="582">
+
 - 👋 Hi, I’m @mamby
 - 💞️ A tech lover ...
 
